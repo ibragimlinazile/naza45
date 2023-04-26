@@ -1,0 +1,23 @@
+#box1{
+    height: 100px;
+    width: 500px;
+    margin: 30px 30px 30px 30px;
+    border: 9px solid pink ;
+    background-color: rgb(59, 59, 252);
+    padding: 40px;
+
+} 
+p{
+    border: 3px solid black;
+    font-display: center;
+    background-color: rgb(231, 80, 34);
+}
+#box2{
+    height: 50px;
+    width: 500px;
+    margin: 30px;
+    border: 9px solid pink ;
+    background-color: rgb(59, 59, 252);
+    padding: 40px;
+
+} 

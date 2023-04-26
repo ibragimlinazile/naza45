@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box1{
+    margin-top: 3%;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.box2{
+    margin-left: 20px;
+    display: flex;
+    
+
+}
+.boxes{
+    display: flex;
+    margin-top: 20px;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
+.box-p{
+    width: 30%;
+    margin-left: 20px;
+
+}
+a{
+    color: red;
+}
+    
+       

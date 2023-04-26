@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+p{
+    margin-top: 20px;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 10px;
+}
+header{
+    margin-top: 10px;
+}

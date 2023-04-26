@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.inline div{
+    display: inline-block;
+    width: 80%;
+    
+}
+#blue{
+    background-color: blue;
+    width: 35%;
+    height: 300px;
+}
+.biruziv{
+    background-color: aqua;
+    width: 80%;
+    height: 70px;
+}
+#beliy{
+  position: absolute;
+  width:44.5% ;
+    height: 300px;
+    background-color: antiquewhite;
+  
+}
+
+.orange{
+    background-color: orange;
+    width: 80%;
+    height: 70px;
+}
